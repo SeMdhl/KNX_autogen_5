@@ -132,7 +132,7 @@ void Knx_dt_Rt(std::string& sPath, int& iMaster, int* iKnx, std::string& sRom, b
     //OPM
     fOutput << "<variable name=\"OPM\">\n\t";
     fOutput << "<type>\n\t";
-    fOutput << "<REAL />\n\t";
+    fOutput << "<INT />\n\t";
     fOutput << "</type>\n\t";
     fOutput << "<documentation>\n" + Tabs(7);
     fOutput << "<xhtml xmlns=\"http://www.w3.org/1999/xhtml\">Rom modus</xhtml>\n" + Tabs(6);
@@ -141,7 +141,7 @@ void Knx_dt_Rt(std::string& sPath, int& iMaster, int* iKnx, std::string& sRom, b
     //OPM CV
     fOutput << "<variable name=\"OPM_CV\">\n\t";
     fOutput << "<type>\n\t";
-    fOutput << "<REAL />\n\t";
+    fOutput << "<INT />\n\t";
     fOutput << "</type>\n\t";
     fOutput << "<documentation>\n" + Tabs(7);
     fOutput << "<xhtml xmlns=\"http://www.w3.org/1999/xhtml\">Rom modus verdi</xhtml>\n" + Tabs(6);
