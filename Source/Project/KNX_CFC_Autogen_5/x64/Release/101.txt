@@ -1,0 +1,21 @@
+STLV59_563	STLV59_A_563	
+104	1121	Møterom 1 dtRomtype_2
+105	1121	Møterom 2 dtRomtype_2
+106	112	Møterom 3 dtRomtype_uk
+107	112	HCWC dtRomtype_3
+108	112	Kjøkken dtRomtype_3
+202	112	Korridor dtRomtype_3
+203	112	Printer rom dtRomtype_1
+204	112	Lager dtRomtype_1
+205	112	Kontor 1 dtRomtype_uk
+206	112	Kontor 2 dtRomtype_uk
+207	112	Gjestekontor dtRomtype_5
+208	112	WC dtRomtype_3
+209	112	WC dtRomtype_3
+210	112	Garderobe dtRomtype_3
+211	112	Kott dtRomtype_3
+301	1121	Møterom 5 dtRomtype_2
+302	11	Gang dtRomtype_uk
+T1_1	112	Trapp 1 dtRomtype_3
+T1_2	112	Trapp 1 dtRomtype_uk
+T1_U	112	Trapp 1 dtRomtype_4

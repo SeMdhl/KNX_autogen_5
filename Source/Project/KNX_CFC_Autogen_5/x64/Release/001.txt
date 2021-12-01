@@ -1,0 +1,27 @@
+STLV59_563	STLV59_A_563	
+001	22101011	Ostelager dtRomtype_7
+002	112	Sosial sone dtRomtype_1
+003	11	Jugendstue dtRomtype_uk
+004	1121	Gang jugend dtRomtype_uk
+005	112	Kjøkken dtRomtype_3
+006	111	Trenings rom dtRomtype_uk
+007	112	Garderobe 2 dtRomtype_3
+008	112	Garderobe 1 dtRomtype_3
+009	112	WC dtRomtype_3
+010	112	WC dtRomtype_3
+011	112	Garderobe dtRomtype_3
+012	112	Entre dtRomtype_3
+013	112	Bøttekott dtRomtype_3
+014	22	Teknisk rom dtRomtype_uk
+015	11	Krypkjeller dtRomtype_uk
+016	11	Teknisk rom tårn dtRomtype_uk
+017	112	Arkiv dtRomtype_3
+101	112	Vindfang dtRomtype_3
+102	112	Garderobe dtRomtype_3
+103	4421	Storsal dtRomtype_6
+109	112	Forrom WC dtRomtype_3
+201	003	Landskap dtRomtype_uk
+212	1121	Møterom 4 dtRomtype_2
+213	112	Stillerom dtRomtype_1
+T2_1	112	Trapp 2 dtRomtype_3
+T2_2	112	Trapp 2 dtRomtype_3

@@ -3,19 +3,19 @@ C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Tools.h(71,9): warning C4551: f
 C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v5.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v5.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v5.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v5.h(106,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v5.h(202,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v5.h(243,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v5.h(322,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v5.h(418,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(85,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(95,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(101,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(119,53): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(135,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(141,63): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(149,63): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(157,63): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v5.h(107,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v5.h(216,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v5.h(256,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v5.h(342,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v5.h(454,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(83,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(93,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(99,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(117,53): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(131,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(137,63): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(145,63): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(153,63): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xstring(2468,23): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
           with
           [
@@ -41,14 +41,14 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
           [
               _Iter=wchar_t *
           ]
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(184): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(180): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
           with
           [
               _Elem=wchar_t,
               _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
               _Alloc=std::allocator<char>
           ]
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(184): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\KNX_CFC_Autogen_5\KNX_CFC_Autogen_5\Source.cpp(180): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
           with
           [
               _Elem=wchar_t,

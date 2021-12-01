@@ -37,7 +37,7 @@ void OpenFile()
 }
 void Read() //Spør etter navn på fil som skal leses, og leser deretter inn hver linje og lagrer dem i egne variabler.
 {
-    ifstream fInput(sFilPath);      //Åpner fil som skal leses fra
+    ifstream fInput(sFilPath+".txt");      //Åpner fil som skal leses fra
     //fInput.open(sFilPath);        //test
     if (fInput.is_open() == false)       //Sjekker om filen ble åpnet
     {
@@ -45,15 +45,13 @@ void Read() //Spør etter navn på fil som skal leses, og leser deretter inn hver 
         //Sleep(10000);
         OpenFile();
     }
-    else        //Melder ifra om at fil ble åpnet og gjør klar til å importere
-    {
-        cout << "File found\n";
-        /*cout << "Skriv inn GVL navn\n\teksempel: STLV80_563\n\tGVL navn: ";      //Spør etter GVL navn eks. STLV80_360
-        cin >> sGVL;       //Tar inn GVL Navn
-        cout << "Skriv inn adresseformat\n\teksempel: STLV80_A_563_[Rom]\t IKKE ta med Rom\n\tAdresseformat: ";      //Spør etter adresse format eks. STLV80_563.STLV80_A_563_
-        cin >> sAdresseFormat;       //Tar inn adresseformat */
-        //Sleep(2000);
-    }
+    
+    cout << "File found\n";
+    /*cout << "Skriv inn GVL navn\n\teksempel: STLV80_563\n\tGVL navn: ";      //Spør etter GVL navn eks. STLV80_360
+    cin >> sGVL;       //Tar inn GVL Navn
+    cout << "Skriv inn adresseformat\n\teksempel: STLV80_A_563_[Rom]\t IKKE ta med Rom\n\tAdresseformat: ";      //Spør etter adresse format eks. STLV80_563.STLV80_A_563_
+    cin >> sAdresseFormat;       //Tar inn adresseformat */
+    //Sleep(2000);
 
     getline(fInput, sInfo);     //Leser inn første linje hvor info skal være
 
@@ -114,20 +112,18 @@ void Prossesering() //Bruker Input variablene og deler dem opp i sepparate varia
 
             for (int j = 0; j < 3; j++)      //Går gjennom og deler opp etter Rom, kommentar, romtype
             {
-                while (sInput[i].substr(0, 1) == " " || sInput[i].substr(0, 1) == "\t")        //Fjerner evt. mellomrom/tabs som er før verdiene
+                while (sInput[i].substr(0, 1) == "\t")        //Fjerner evt. mellomrom/tabs som er før verdiene
                 {
                     iSize = ((sInput[i].size()) - 1);
                     sInput[i] = (sInput[i].substr(1, iSize));
                 }
 
-                if (sInput[i].find(" ") < sInput[i].find("\t"))
-                    pos = sInput[i].find(" ");
-                else
-                    pos = sInput[i].find("\t");
+              
+                pos = sInput[i].find("\t");
 
                 if (pos < 1)        //Melder om feil og avbryter hvis mellomrom(før verdier) ikke ble fjernet
                 {
-                    cout << "\n\nError: line 126.\n\n";
+                    cout << "\n\nError: line 128.\n\n";
                     abort();
                 }
                 else
